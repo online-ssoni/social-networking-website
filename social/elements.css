@@ -1,0 +1,34 @@
+ #form_box {
+     background-color: aliceblue;
+     position: absolute;
+     padding: 2rem;
+     margin: 0 auto;
+     width: 30rem;
+     box-shadow: 0 0 2rem 0.1rem gray;
+ }
+
+
+
+
+ .custom_label,
+ .custom_button {
+     color: white;
+     padding: 0.5rem;
+     background-color: #5C6BC0;
+     box-shadow: 2px 2px 5px grey
+ }
+
+
+ .custom_button:hover {
+     cursor: pointer;
+ }
+
+ .custom_button {
+     background-color: #5C6BC0;
+ }
+
+ .input_box {
+     border-color: transparent;
+     border-bottom-color: #5C6BC0;
+     background-color: transparent;
+ }
